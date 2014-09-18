@@ -2,10 +2,10 @@
 This is a code template for creating Sinatra apps that use MongoDB.
 
 ## Cloning
-Clone it with [boilerplate](http://ajaymt.github.com/boilerplate).
+Clone it with [bp](http://github.com/code-boilerplates/bp).
 
 ```sh
-$ boilerplate sinatra-mongo <project-name>
+$ bp sinatra-mongo <project-name>
 ```
 
 ## Running
